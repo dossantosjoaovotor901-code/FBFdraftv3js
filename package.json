@@ -1,0 +1,16 @@
+{
+  "name": "fbf-football-draft",
+  "version": "2.0.0",
+  "description": "FBF Football Draft - backend em Node.js puro (node:http + node:sqlite)",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "init-db": "node src/scripts/init-db.js",
+    "seed": "node src/scripts/seed.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
