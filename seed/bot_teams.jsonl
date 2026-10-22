@@ -1,0 +1,4 @@
+{"id": 1, "key": "facil", "name": "Bot · Fácil", "crest": "🤖", "strength": 62, "attack": null, "defense": null, "gk": null, "chemistry": 40, "reward": 60, "active": 1, "sort": 1}
+{"id": 2, "key": "medio", "name": "Bot · Médio", "crest": "🤖", "strength": 74, "attack": null, "defense": null, "gk": null, "chemistry": 40, "reward": 120, "active": 1, "sort": 2}
+{"id": 3, "key": "dificil", "name": "Bot · Difícil", "crest": "🤖", "strength": 84, "attack": null, "defense": null, "gk": null, "chemistry": 40, "reward": 220, "active": 1, "sort": 3}
+{"id": 4, "key": "lenda", "name": "Bot · Lenda", "crest": "👑", "strength": 92, "attack": null, "defense": null, "gk": null, "chemistry": 40, "reward": 400, "active": 1, "sort": 4}

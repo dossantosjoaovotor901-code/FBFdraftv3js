@@ -1,0 +1,4 @@
+{"level": 0, "name": "Iniciante", "strength": 58, "coins": 100, "pack_id": 78, "pack_label": "Pacote Bronze", "updated_at": "2026-10-11 04:01:43"}
+{"level": 1, "name": "Intermediário", "strength": 72, "coins": 200, "pack_id": 78, "pack_label": "Pacote Bronze", "updated_at": "2026-10-11 04:01:43"}
+{"level": 2, "name": "Difícil", "strength": 84, "coins": 350, "pack_id": 79, "pack_label": "Pacote Prata", "updated_at": "2026-10-11 04:01:43"}
+{"level": 3, "name": "Hardcore", "strength": 94, "coins": 500, "pack_id": 80, "pack_label": "Pacote Ouro", "updated_at": "2026-10-11 04:01:43"}

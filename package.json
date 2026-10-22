@@ -1,16 +1,14 @@
 {
-  "name": "fbf-football-draft",
+  "name": "fbf-node",
   "version": "2.0.0",
-  "description": "FBF Football Draft - backend em Node.js puro (node:http + node:sqlite)",
+  "description": "FBF - Football Draft (backend em Node.js puro, sem dependencias)",
+  "main": "server.js",
   "private": true,
-  "type": "commonjs",
-  "main": "src/server.js",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=22.13" },
   "scripts": {
-    "start": "node src/server.js",
-    "init-db": "node src/scripts/init-db.js",
-    "seed": "node src/scripts/seed.js"
-  },
-  "engines": {
-    "node": ">=22.5.0"
+    "start": "node server.js",
+    "test": "node test/run.js",
+    "migrate:h2": "node tools/migrate-h2.js"
   }
 }

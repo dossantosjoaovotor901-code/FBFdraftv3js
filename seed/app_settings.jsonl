@@ -1,0 +1,11 @@
+{"key": "shop_cycle", "value": "2", "updated_at": "2026-10-13 21:31:16"}
+{"key": "economy_v2", "value": "1", "updated_at": "2026-10-13 21:30:40"}
+{"key": "shop_last_refresh", "value": "2026-10-13T21:31:16.587Z", "updated_at": "2026-10-13 21:31:16"}
+{"key": "selfcard_pix_enabled", "value": "0", "updated_at": "2026-10-13 21:42:59"}
+{"key": "selfcard_pix_key", "value": "", "updated_at": "2026-10-13 21:42:59"}
+{"key": "selfcard_pix_name", "value": "NIFOUR", "updated_at": "2026-10-13 21:42:59"}
+{"key": "selfcard_pix_price", "value": "R$ 15", "updated_at": "2026-10-13 21:42:59"}
+{"key": "selfcard_pix_info", "value": "Faça o Pix para a chave acima, envie o comprovante aqui e aguarde a liberação da sua carta.", "updated_at": "2026-10-13 21:42:59"}
+{"key": "pos_futsal_v1", "value": "1", "updated_at": "2026-10-15 21:08:45"}
+{"key": "bot_match_cooldown", "value": "60", "updated_at": "2026-10-15 21:13:59"}
+{"key": "bot_match_daily_limit", "value": "0", "updated_at": "2026-10-15 21:13:59"}

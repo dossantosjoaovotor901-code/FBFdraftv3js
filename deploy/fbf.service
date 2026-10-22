@@ -1,0 +1,20 @@
+[Unit]
+Description=FBF Football Draft (Node)
+After=network.target
+
+[Service]
+Type=simple
+User=fbf
+WorkingDirectory=/opt/fbf
+EnvironmentFile=/opt/fbf/.env
+ExecStart=/usr/bin/node --no-warnings /opt/fbf/server.js
+Restart=always
+RestartSec=3
+# Node e leve; limite generoso so por seguranca
+MemoryMax=300M
+NoNewPrivileges=true
+ProtectSystem=full
+ReadWritePaths=/opt/fbf/data /opt/fbf/uploads
+
+[Install]
+WantedBy=multi-user.target
